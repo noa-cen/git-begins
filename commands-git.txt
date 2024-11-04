@@ -1,8 +1,11 @@
-Cloner un repository:
+# Cloner un repository:
 git clone lien_du_repository
 
-Les trois commandes push:
-# git add nom_du_fichier.extension
+# Les trois commandes push:
+git add nom_du_fichier.extension
 git add . (permet d'indexer tous les fichiers du repository)
-# git commit -m "message"
-# git push
+git commit -m "message"
+git push
+
+# La commande qui permet de pull:
+git pull
