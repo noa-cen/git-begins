@@ -9,3 +9,9 @@ git push
 
 # La commande qui permet de pull:
 git pull
+
+# Commande permettant de créer une branche:
+git branch nom_de_la_nouvelle_branche
+
+# Commande permettant de basculer de branche:
+git checkout nom_de_la_nouvelle_branche
